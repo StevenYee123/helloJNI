@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">helloJNI</string>
+    <string name="EnterText">Please Enter the No. of Rows and Columns...</string>
+    <string name="textview">No. of Rows</string>
+    <string name="no_of_cols">No. of Cols</string>
+    <string name="start">Start</string>
+</resources>

@@ -1,0 +1,5 @@
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/helloJNI.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/acquisition.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/native-lib.dir

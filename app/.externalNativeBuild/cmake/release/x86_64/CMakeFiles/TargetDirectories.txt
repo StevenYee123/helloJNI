@@ -1,0 +1,5 @@
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/helloJNI.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/acquisition.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir

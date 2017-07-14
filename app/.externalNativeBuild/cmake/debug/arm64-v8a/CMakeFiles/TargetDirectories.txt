@@ -1,0 +1,5 @@
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/helloJNI.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/acquisition.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/helloJNI/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
